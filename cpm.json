@@ -1,0 +1,7 @@
+{
+    "name": "multi_mod",
+    "git": "git@github.com:neacsum/example_multi_mod.git",
+    "build": [
+        {"cmd": "build.bat"}
+    ] 
+}
