@@ -1,6 +1,7 @@
 {
     "name": "multi_mod",
-    "git": "https://github.com/neacsum/example_multi_mod.git",
+    "https": "https://github.com/neacsum/example_multi_mod.git",
+    "git": "git@github.com:neacsum/example_multi_mod.git",
     "build": [
         {"cmd": "build.bat"}
     ] 
