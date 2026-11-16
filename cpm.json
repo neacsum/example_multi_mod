@@ -1,6 +1,6 @@
 {
     "name": "multi_mod",
-    "uri": "https://github.com/neacsum/example_multi_mod.git",
+    "origin": "https://github.com/neacsum/example_multi_mod.git",
     "build": [
       {"os": "windows", "cmd": "cmake", "args": ["--workflow", "--preset=x64"]},
       {"os": "windows", "cmd": "cmake", "args": ["--workflow", "--preset=x86"]},
